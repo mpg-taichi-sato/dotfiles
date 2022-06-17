@@ -1,9 +1,11 @@
 tap "homebrew/bundle"
 tap "homebrew/core"
 brew "sqlite"
+brew "awscli"
 brew "awsume"
 brew "direnv"
 brew "jq"
+brew "mas"
 brew "peco"
 brew "ruby-build"
 brew "rbenv"
@@ -11,3 +13,7 @@ brew "tree"
 brew "zsh-autosuggestions"
 brew "zsh-completions"
 brew "zsh-syntax-highlighting"
+mas "Keynote", id: 409183694
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Sequel Ace", id: 1518036000
