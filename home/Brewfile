@@ -1,9 +1,11 @@
 tap "homebrew/bundle"
+tap "homebrew/cask"
 tap "homebrew/core"
 brew "sqlite"
 brew "awscli"
 brew "awsume"
 brew "direnv"
+brew "gh"
 brew "jq"
 brew "mas"
 brew "peco"
@@ -13,6 +15,9 @@ brew "tree"
 brew "zsh-autosuggestions"
 brew "zsh-completions"
 brew "zsh-syntax-highlighting"
+cask "google-japanese-ime"
+cask "gpg-suite"
+cask "skitch"
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
