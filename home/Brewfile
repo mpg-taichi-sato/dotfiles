@@ -18,9 +18,9 @@ brew "zsh-completions"
 brew "zsh-syntax-highlighting"
 cask "google-japanese-ime"
 cask "gpg-suite"
+cask "sequel-ace"
 cask "skitch"
 cask "sourcetree"
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
-mas "Sequel Ace", id: 1518036000
