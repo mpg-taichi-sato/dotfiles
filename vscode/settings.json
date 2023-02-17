@@ -66,5 +66,7 @@
     "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
   },
   "terminal.integrated.enableMultiLinePasteWarning": false,
-  "diffEditor.renderSideBySide": false
+  "diffEditor.renderSideBySide": false,
+  "editor.inlineSuggest.enabled": true,
+  "redhat.telemetry.enabled": true
 }
