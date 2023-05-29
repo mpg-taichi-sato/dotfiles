@@ -59,7 +59,6 @@
   "git.autofetch": true,
   "gitlens.hovers.currentLine.over": "line",
   "terminal.integrated.scrollback": 20000,
-  "omnisharp.useModernNet": false,
   "workbench.startupEditor": "none",
   "editor.minimap.enabled": false,
   "[scss]": {
@@ -68,5 +67,12 @@
   "terminal.integrated.enableMultiLinePasteWarning": false,
   "diffEditor.renderSideBySide": false,
   "editor.inlineSuggest.enabled": true,
-  "redhat.telemetry.enabled": true
+  "redhat.telemetry.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": true,
+    "plaintext": false,
+    "markdown": true
+  },
+  "omnisharp.useModernNet": false
 }
