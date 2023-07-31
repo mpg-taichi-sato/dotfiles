@@ -69,10 +69,11 @@
   "editor.inlineSuggest.enabled": true,
   "redhat.telemetry.enabled": true,
   "github.copilot.enable": {
-    "*": true,
-    "yaml": true,
+    "*": false,
     "plaintext": false,
-    "markdown": true
+    "markdown": true,
+    "scminput": false,
+    "yaml": true
   },
   "omnisharp.useModernNet": false
 }
