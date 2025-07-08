@@ -75,5 +75,11 @@
   },
   "omnisharp.useModernNet": false,
   "workbench.sideBar.location": "right",
-  "rubyLsp.formatter": "none"
+  "rubyLsp.formatter": "none",
+  "github.copilot.editor.enableAutoCompletions": true,
+  "dev.containers.defaultExtensions": [
+    "eamodio.gitlens",
+    "42crunch.vscode-openapi"
+  ],
+  "cline.preferredLanguage": "Japanese - 日本語"
 }

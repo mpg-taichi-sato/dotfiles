@@ -109,3 +109,5 @@ zstyle ':completion:*:default' menu select=2
 # direnv用の設定
 export EDITOR=code
 eval "$(direnv hook zsh)"
+
+. "$HOME/.local/bin/env"

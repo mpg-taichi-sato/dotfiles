@@ -2,10 +2,6 @@
 
 source "https://rubygems.org"
 
-group :development do
-  gem 'solargraph'
-end
-
 group :development, :test do
   gem 'dip'
   gem 'pry-byebug'

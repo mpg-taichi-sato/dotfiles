@@ -66,5 +66,12 @@
         "key": "alt+down",
         "command": "-editor.action.moveLinesDownAction",
         "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+shift+l",
+        "command": "terminal.createTerminal",
+        "args": {
+            "location": "local"
+        }
     }
 ]
